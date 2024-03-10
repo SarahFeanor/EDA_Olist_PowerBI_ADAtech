@@ -1,7 +1,5 @@
 <sub> 📂 Projeto - Grupo 2 | Turma: 1102 - Programa Vem Ser Tech Dados - ADA | Módulo 6 - Visualização de Dados com Power BI  </sub> 
 
-
-
 # 🔎 **Análise de dados: Comércio eletrônico brasileiro - PowerBI** 💳
 
 <sub> 🔗 Visite também >> [Outros PROJETOS do curso - AdaTech](https://github.com/SarahFeanor/Projetos_Curso_AdaTech) </sub>
@@ -25,7 +23,7 @@ Este projeto de análise é parte do módulo de conclusão do curso ADA Tech - V
 
 Este projeto visa aplicar os conhecimentos adquiridos durante o curso, especialmente em visualização de dados utilizando o Power BI. Ele busca explorar e extrair insights significativos a partir dos dados do comércio eletrônico, oferecendo uma visão detalhada das tendências, padrões e comportamentos dos clientes e vendedores.
 
-Aqui estão algumas das principais colunas do conjunto de dados:
+## Colunas do conjunto de dados:
 
 | Nome da Coluna            | Descrição                                                               |
 |--------------------------|------------------------------------------------------------------------|
