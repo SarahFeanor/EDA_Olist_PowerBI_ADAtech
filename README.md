@@ -1,6 +1,6 @@
 <sub> 📂 Projeto - Grupo 2 | Turma: 1102 - Programa Vem Ser Tech Dados - ADA | Módulo 6 - Visualização de Dados com Power BI  </sub> 
 
-# 🔎 **Análise de dados: Comércio eletrônico brasileiro - PowerBI** 💳
+## 🔎 **Análise de dados: Comércio eletrônico brasileiro - PowerBI** 💳
 
 <sub> 🔗 Visite também >> [Outros PROJETOS do curso - AdaTech](https://github.com/SarahFeanor/Projetos_Curso_AdaTech) </sub>
 
