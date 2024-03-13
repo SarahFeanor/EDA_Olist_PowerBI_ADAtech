@@ -19,6 +19,8 @@ Vale ressaltar que todos os dados são exclusivamente para fins de demonstraçã
 **Professor**: 
 [Bruno Trindade Bragança](https://www.linkedin.com/in/brunotrbr/)
 
+## Visão Geral do Projeto
+
 Este projeto de análise é parte do módulo de conclusão do curso ADA Tech - Visualização de Dados com Power BI. Ele se baseia em um conjunto de dados públicos do comércio eletrônico brasileiro, disponibilizados pelo site Olist por meio da plataforma Kaggle. Esses dados consistem em registros detalhados de vendas, valores, informações geográficas, cadastros e outros aspectos que abrangem todo o processo de venda de produtos online. É importante ressaltar que os dados são reais, porém foram anonimizados pelos publicadores do conjunto de dados. Por exemplo, os nomes das empresas foram substituídos pelos nomes das grandes casas da série Game of Thrones.
 
 Este projeto visa aplicar os conhecimentos adquiridos durante o curso, especialmente em visualização de dados utilizando o Power BI. Ele busca explorar e extrair insights significativos a partir dos dados do comércio eletrônico, oferecendo uma visão detalhada das tendências, padrões e comportamentos dos clientes e vendedores.
@@ -58,21 +60,5 @@ Este projeto visa aplicar os conhecimentos adquiridos durante o curso, especialm
 | estado_cliente           | Estado do cliente.                                                     |
 | cidade_vendedor          | Cidade do vendedor.                                                    |
 | estado_vendedor          | Estado do vendedor.                                                    |
-
----
-
-**Indagações a serem respondidas pela análise exploratória dos dados:**
-
-- Qual o total(quantidade) de vendas divididas por estado?
-- Qual o total(valor) de vendas e fretes divididos por estado?
-- Qual o total(quantidade) e distribuição(%) de vendas por hora?
-- Qual a média(valor) de vendas por hora?
-- Qual o ticket médio nos anos de 2016, 2017 e 2018?
-- Qual a distribuição(%) da pontuação do pedidos?
-- Quais as 10 cidades com as maiores volumes(quantidade) de vendas?
-- Quais as 10 cidades com os maiores volumes(valores) de vendas e fretes?
-- Qual a quantidade de produtos cadastrados por categoria?
-- Qual a quantidade e distribuição(%) das categorias nos pedidos?
-- Qual a quantidade de vendas por vendedor?
 
 
