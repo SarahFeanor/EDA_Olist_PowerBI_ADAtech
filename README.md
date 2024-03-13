@@ -21,7 +21,7 @@ Vale ressaltar que todos os dados são exclusivamente para fins de demonstraçã
 
 ## Visão Geral do Projeto
 
-Este projeto de análise é parte do módulo de conclusão do curso ADA Tech - Visualização de Dados com Power BI. Ele se baseia em um conjunto de dados públicos do comércio eletrônico brasileiro, disponibilizados pelo site Olist por meio da plataforma Kaggle. Esses dados consistem em registros detalhados de vendas, valores, informações geográficas, cadastros e outros aspectos que abrangem todo o processo de venda de produtos online. É importante ressaltar que os dados são reais, porém foram anonimizados pelos publicadores do conjunto de dados. Por exemplo, os nomes das empresas foram substituídos pelos nomes das grandes casas da série Game of Thrones.
+Este projeto de análise é parte do módulo de conclusão do curso ADA Tech - Visualização de Dados com Power BI. Ele se baseia em um conjunto de [dados públicos](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) do comércio eletrônico brasileiro, disponibilizados pelo site Olist por meio da plataforma [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Esses dados consistem em registros detalhados de vendas, valores, informações geográficas, cadastros e outros aspectos que abrangem todo o processo de venda de produtos online. É importante ressaltar que os dados são reais, porém foram anonimizados pelos publicadores do conjunto de dados.
 
 Este projeto visa aplicar os conhecimentos adquiridos durante o curso, especialmente em visualização de dados utilizando o Power BI. Ele busca explorar e extrair insights significativos a partir dos dados do comércio eletrônico, oferecendo uma visão detalhada das tendências, padrões e comportamentos dos clientes e vendedores.
 
