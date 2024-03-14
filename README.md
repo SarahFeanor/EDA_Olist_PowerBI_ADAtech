@@ -71,7 +71,7 @@ Ela facilita a venda de produtos online ao permitir que vendedores, possam lista
 
 # Conclusão:
 
-A análise exploratória de dados da plataforma Olist revela insights valiosos sobre o mercado de comércio eletrônico e o desempenho dos vendedores na plataforma. 
+Concluímos que nossa análise exploratória de dados da plataforma Olist revelou insights valiosos sobre o mercado de comércio eletrônico e o desempenho dos vendedores na plataforma. 
 - Identificamos padrões de vendas, preferências dos consumidores e oportunidades de crescimento em diferentes regiões e categorias de produtos. 
 - Com uma compreensão sólida desses dados, os vendedores podem tomar decisões informadas para impulsionar o sucesso de seus negócios na plataforma Olist. 
 - Além disso, a análise destaca a importância da personalização da experiência do cliente, da eficiência logística e do marketing direcionado para aumentar a renda e expandir a presença da Olist em novos mercados. 
