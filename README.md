@@ -25,6 +25,14 @@ Este projeto de análise é parte do módulo de conclusão do curso ADA Tech - V
 
 Este projeto visa aplicar os conhecimentos adquiridos durante o curso, especialmente em visualização de dados utilizando o Power BI. Ele busca explorar e extrair insights significativos a partir dos dados do comércio eletrônico, oferecendo uma visão detalhada das tendências, padrões e comportamentos dos clientes e vendedores.
 
+## Olist
+
+A Olist é uma plataforma de comércio eletrônico que atua como intermediária entre vendedores e consumidores. 
+Ela facilita a venda de produtos online ao permitir que vendedores, possam listar e vender seus produtos em sua plataforma. Alem disso, os consumidores têm acesso a uma ampla variedade de produtos de diferentes vendedores em um único local, simplificando o processo de compra online. A Olist também oferece serviços como gestão de vendas, logística, marketing e atendimento ao cliente, proporcionando uma experiência completa para vendedores e compradores.
+
+
+
+
 ## Colunas do conjunto de dados:
 
 | Nome da Coluna            | Descrição                                                               |
