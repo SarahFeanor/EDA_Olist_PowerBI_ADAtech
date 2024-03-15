@@ -8,6 +8,9 @@ Bem-vindos(as) ao nosso repositório do **6ª projeto** desenvolvido durante o c
 
 Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
+[DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNWM1Mjg0ZTItNTEzYy00YWU0LTg3ZTYtMmVmZjBiZWE1Yjg2IiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9)
+
+
 **Integrantes**:
 
 - [Caio Vieira](https://www.linkedin.com/in/caio-miazzi-86454617b/)
